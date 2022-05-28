@@ -1,0 +1,13 @@
+body{
+    background-color:firebrick;
+}
+#ScoreSpan{
+    font-size: 50px;
+    margin-left:1000px;
+}
+#TimerSpan{
+    font-size: 50px;
+}
+#DrawSpan{
+    color:rgb(0, 221, 255);
+}
